@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, friends! 👋
+
+Welcome to my Github page. If I make software, it is surely here!
 
 <!--
 **Safariminer/safariminer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
