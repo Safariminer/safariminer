@@ -2,6 +2,9 @@
 
 Welcome to my Github page. If I make software, it is surely here!
 
+- Pronouns: He/Him(Github proposed me to put that in my readme)
+- Skills I possess: Music composition, MIDI, playing guitar, playing bass, using printfs(using COUT is a sin for me)
+
 <!--
 **Safariminer/safariminer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
