@@ -1,11 +1,23 @@
-### Hello, friends! 👋
+# Oi mate! TakeNRG
 
-Welcome to my Github page. If I make software, it is surely here!
+Welcome to the literal worst page on Github, friend!
 
-- Skills I possess: Music composition, MIDI, playing guitar, playing bass, using printfs(using COUT is a sin for me)
-- Games I play: Trackmania, TF2, Postal
+## Languages I use:
+- C/C++
+- PHP
+- ACS
+- ManiaScript
+- C#
 
-![tmladder](http://sign.tm-ladder.com/BGZkZQx5Amt0Zj.png)
+## Interesting projects I've made:
+- [3bune](https://github.com/Safariminer/3bune), a chat software in PHP
+- [TMComms](https://safariminer.gh.srv.us/tmcomms/index.php), another chat in PHP, but this time, it was also in Maniascript and for Trackmania. (repo coming soon)
+- [Trans Girl Toolkit](https://github.com/Safariminer/TVGame), a game engine in C++, with which I made Dead Weather.
+
+## Games I play:
+- Trackmania
+- POSTAL
+- TF2
 
 <!--
 **Safariminer/safariminer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
