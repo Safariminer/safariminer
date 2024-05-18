@@ -11,7 +11,7 @@ Welcome to the literal worst page on Github, friend!
 
 ## Interesting projects I've made:
 - [3bune](https://github.com/Safariminer/3bune), a chat software in PHP
-- [TMComms](https://safariminer.gh.srv.us/tmcomms/index.php), another chat in PHP, but this time, it was also in Maniascript and for Trackmania. (repo coming soon)
+- [TMComms](https://github.com/Safariminer/tmcomms), another chat in PHP, but this time, it was also in Maniascript and for Trackmania.
 - [Trans Girl Toolkit](https://github.com/Safariminer/TVGame), a game engine in C++, with which I made Dead Weather.
 
 ## Games I play:
