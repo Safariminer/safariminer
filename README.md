@@ -1,6 +1,4 @@
-# Oi mate! TakeNRG
-
-Welcome to the literal worst page on Github, friend!
+Welcome to my GitHub page!
 
 ## Languages I use:
 - C/C++
