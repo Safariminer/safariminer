@@ -1,5 +1,8 @@
 Welcome to my GitHub page!
 
+## Currently studying at:
+Collège Montmorency
+
 ## Languages I use:
 - C/C++
 - PHP
